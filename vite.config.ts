@@ -12,6 +12,6 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-	base: '/',
+	base: '/ts-shopping-cart',
   };
 });
